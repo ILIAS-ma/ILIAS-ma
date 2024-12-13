@@ -37,5 +37,5 @@ Je suis un étudiant passionné en développement web à l'IIM Digital School. J
 ---
 
 ## 📫 Contact Me
-- 💼 [LinkedIn]([#](https://www.linkedin.com/in/ilias-bounabat/))
+- 💼 [LinkedIn]([(https://www.linkedin.com/in/ilias-bounabat/))
 - 📧 [Email](Bounabatilias2004@gmail.com)
